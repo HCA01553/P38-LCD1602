@@ -1,0 +1,26 @@
+{
+    "name": "プロジェクト38：LCD（液晶画面）",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "lcd1602": "github:xuefengedu/pxt-lcd1602_cn#26c1483667265f87d54e59e796f86673ceb1bffb",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.22",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
